@@ -1,0 +1,7 @@
+LocalConfig:
+  LocalPort: 1080
+ServerConfig:
+  ServerUser: root
+  ServerIp: ip
+  ServerPort: port
+  PrivateKeyPath: id_rsa Path
